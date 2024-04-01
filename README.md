@@ -1,6 +1,13 @@
 This is my React project created for learning purpose.
 App - Online Food Outlet
 
+Tech used:
+React Js with JavaScript
+TailWind CSS
+Redux
+Jest & React testing library
+
+Notes:
 #Parcel
 - Dev build
 - Local server
@@ -43,3 +50,7 @@ App - Online Food Outlet
  - Create a slice (cartSlice)
  - Dispatch an action
  - Read the data using Selector
+
+# Jest - unit test & integration test cases
+
+All notes - https://docs.google.com/document/d/1-eTMNlsTKscXUXYYb_MrK-VJlJCj746XENLO5oHF-98/edit?usp=sharing
