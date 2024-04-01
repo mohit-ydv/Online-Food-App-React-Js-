@@ -2,9 +2,9 @@ This is my React project created for learning purpose.
 App - Online Food Outlet
 
 Tech used:
-React Js with JavaScript
-TailWind CSS
-Redux
+React Js with JavaScript, 
+TailWind CSS, 
+Redux, 
 Jest & React testing library
 
 Notes:
